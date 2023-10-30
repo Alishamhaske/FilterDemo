@@ -1,0 +1,8 @@
+﻿Before Action execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Index (FilterDemo)->23-10-2023 11:44:14
+----------------------------------
+After Action execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Index (FilterDemo)->23-10-2023 11:44:14
+----------------------------------
+Before Result execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Index (FilterDemo)->23-10-2023 11:44:14
+----------------------------------
+After Result execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Index (FilterDemo)->23-10-2023 11:44:15
+----------------------------------
